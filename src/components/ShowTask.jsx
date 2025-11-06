@@ -27,6 +27,7 @@ export default function ShowTask({toDoList, setToDoList, task, setTask}){
                                 <span className="name">{toDo.name}</span>
                                 <span className="time">{toDo.time}</span>
                             </p>
+                            
                             <i className="bi bi-pencil-square" onClick={() => handleEdit(toDo.id)}></i>
                             <i className="bi bi-trash" onClick={() => handleDelete(toDo.id)}></i>
                         </li>
