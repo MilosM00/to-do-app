@@ -1,4 +1,3 @@
 # To Do App
 
-Simple built to do application using React framework.
-You can add new, update exsiting and remove todo's.
+A simple to-do application built with the React framework. You can add, update, and remove to-dos. Additionally, there are attractive background themes that users can choose from.
